@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/GDriveToDatabase/GoogleDriveToDatabase.html" }
+    { "source": "/", "destination": "GoogleDriveToDatabase.html" }
   ]
 }
